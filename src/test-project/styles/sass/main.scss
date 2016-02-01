@@ -1,0 +1,17 @@
+@import 'bootstrap-sass/assets/stylesheets/bootstrap';
+
+body {
+    background: #3e3e3e;
+}
+.wrap {
+    .logo {
+        margin: 10px 0;
+    }
+
+    .box {
+        background: #fff;
+        border-radius: 5px;
+        box-sizing: content-box;
+        padding: 10px;
+    }
+}
